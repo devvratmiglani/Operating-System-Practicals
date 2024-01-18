@@ -1,2 +1,2 @@
 # Operating-System-Practicals
-### Practicals performed in college durations 
+Practicals performed in college durations 
